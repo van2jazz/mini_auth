@@ -18,7 +18,7 @@ A simple authentication microservice using Spring Boot with JWT-based user authe
 
 ## Tech Stack
 
-- Java 17+
+- Java 21+
 - Spring Boot 3.x
 - Spring Security
 - JWT (JSON Web Tokens) via jjwt library
